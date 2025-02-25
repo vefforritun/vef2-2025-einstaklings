@@ -158,10 +158,19 @@ Skráning á þær er sérstaklega tiltekin í verkefnalýsingu á Canvas.
   - 40% Kynningin skýr og auðvelt að fylgja eftir.
   - 30% Svör við óundirbúnum spurningum.
 
+## Sleppa minni verkefnum fyrir stærra einstaklingsverkefni
+
+Ef áhugi er fyrir því er hægt að sleppa að skila einu minna verkefni fyrir stærra einstaklingsverkefni.
+
+Almenna reglan er að við það sé einstaklingsverkefnið tvisvar sinnum stærra. Þetta er samt erfitt að meta.
+
+Til að nýta þennan möguleika þarf að hafa samband við kennara, skilgrein hvað verði gert aukalega (hægt er að miða við endurgjöf úr fyrri skilum) og fá leyfi frá kennara.
+
 ---
 
-> Útgáfa 0.1
+> Útgáfa 0.2
 
-| Útgáfa | Breyting      |
-| ------ | ------------- |
-| 0.1    | Fyrsta útgáfa |
+| Útgáfa | Breyting                                           |
+| ------ | -------------------------------------------------- |
+| 0.1    | Fyrsta útgáfa                                      |
+| 0.2    | Bæta við um að sleppa minni verkefnum fyrir stærra |
